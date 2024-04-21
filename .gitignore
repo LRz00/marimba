@@ -25,3 +25,8 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+# Device folders(Recreate on personal machine if needed)
+macos/
+windows/
+linux/
+web/
